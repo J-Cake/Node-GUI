@@ -1,0 +1,6 @@
+{
+  "name": "node_gui",
+  "scripts": {
+    "launch": "launch \"%cd%\""
+  }
+}
